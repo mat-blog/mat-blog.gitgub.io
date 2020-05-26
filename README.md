@@ -1,1 +1,1 @@
-# mat-blog.gitgub.io
+# mat-blog.github.io
